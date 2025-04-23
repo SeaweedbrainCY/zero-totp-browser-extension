@@ -1,0 +1,10 @@
+{
+  "name": "Zero-TOTP",
+  "description": "Zero-TOTP extension",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "html/login.html",
+    "default_icon": "assets/totp_square_dark.png"
+  }
+}
